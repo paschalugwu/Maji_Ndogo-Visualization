@@ -52,7 +52,7 @@ Extensive use of Microsoft Power BI for:
 
 ## 5. Project Outcomes
 
-### PART 1 - [Download Power BI File](path/to/your/powerbi_file.pbix):
+### PART 1 - [Download Power BI File](https://drive.google.com/file/d/139ijckhikCU4eZz63cb9Au7yhGbAvKDU/view?usp=sharing):
 
 [Dashboard](path/to/your/dashboard.pdf)
 
@@ -86,7 +86,7 @@ The identification of harassment as a crime women are most likely affected by hi
 #### Insight 10: Crime Patterns Across Provinces
 The observation that Amanzi has the lowest number of crimes against women brings attention to regional variations in crime rates. Understanding these variations is pivotal in designing targeted security and awareness programs.
 
-### PART 2 - [Download Power BI File](path/to/your/powerbi_file.pbix):
+### PART 2 - [Download Power BI File](https://drive.google.com/file/d/139ijckhikCU4eZz63cb9Au7yhGbAvKDU/view?usp=sharing):
 
 [Dashboard](path/to/your/dashboard.pdf)
 
@@ -120,7 +120,7 @@ Pinpointing 12:00 as the hour with the lowest reported crimes against children s
 #### Insight 10: Disparity in Assault Cases
 Identifying Fridays as the day with the largest disparity between women and men in sexual assault cases highlights specific days requiring targeted interventions and heightened security measures.
 
-### PROJECT 3 - [Download Power BI File](path/to/your/powerbi_file.pbix):
+### PROJECT 3 - [Download Power BI File](https://drive.google.com/file/d/1qwGXtG-C292c-UVuKzJlg6RJKpGGb-TL/view?usp=sharing):
 
 [Dashboard](path/to/your/dashboard.pdf)
 
@@ -154,7 +154,7 @@ Analyzing the budget breakdown for Djenne showcases the allocation of financial 
 #### Insight 10: Cost Efficiency by Province
 Recognizing Amanzi as the province with the lowest cost per citizen for improvements underscores the efficiency of resource utilization and budget allocation strategies within different regions.
 
-### PROJECT 4 - [Download Power BI File](path/to/your/powerbi_file.pbix):
+### PROJECT 4 - [Download Power BI File](https://drive.google.com/file/d/1AnQHc9a0FU0ETotXhX1RTEfEIkcRtC7T/view?usp=sharing):
 
 [Dashboard](path/to/your/dashboard.pdf)
 
