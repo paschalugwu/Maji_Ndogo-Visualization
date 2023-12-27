@@ -52,9 +52,9 @@ Extensive use of Microsoft Power BI for:
 
 ## 5. Project Outcomes
 
-### PART 1 - [Download Power BI File](https://drive.google.com/file/d/139ijckhikCU4eZz63cb9Au7yhGbAvKDU/view?usp=sharing):
+### PART 1 - [Download Power BI File to access interactivity with the dashboard](https://drive.google.com/file/d/139ijckhikCU4eZz63cb9Au7yhGbAvKDU/view?usp=sharing):
 
-[Dashboard](path/to/your/dashboard.pdf)
+![Dashboard](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%201%20and%202-1.png)
 
 #### Insight 1: Rural Population
 The discovery that approximately 63.85% of Maji Ndogo's population resides in rural areas sheds light on the predominant demographic landscape. This indicates a substantial concentration outside urban centers, revealing the importance of tailored infrastructure and resource allocation for rural development initiatives.
@@ -86,9 +86,9 @@ The identification of harassment as a crime women are most likely affected by hi
 #### Insight 10: Crime Patterns Across Provinces
 The observation that Amanzi has the lowest number of crimes against women brings attention to regional variations in crime rates. Understanding these variations is pivotal in designing targeted security and awareness programs.
 
-### PART 2 - [Download Power BI File](https://drive.google.com/file/d/139ijckhikCU4eZz63cb9Au7yhGbAvKDU/view?usp=sharing):
+### PART 2 - [Download Power BI File to access interactivity with the dashboard](https://drive.google.com/file/d/139ijckhikCU4eZz63cb9Au7yhGbAvKDU/view?usp=sharing):
 
-[Dashboard](path/to/your/dashboard.pdf)
+![Dashboard](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%201%20and%202-2.png)
 
 #### Insight 1: Water Source Concentration
 Identifying Dahabu as the town with the highest number of tap-in-home sources signifies a localized area with advanced water infrastructure. Understanding such concentrations is crucial for replicating successful models in other regions.
@@ -120,9 +120,14 @@ Pinpointing 12:00 as the hour with the lowest reported crimes against children s
 #### Insight 10: Disparity in Assault Cases
 Identifying Fridays as the day with the largest disparity between women and men in sexual assault cases highlights specific days requiring targeted interventions and heightened security measures.
 
-### PROJECT 3 - [Download Power BI File](https://drive.google.com/file/d/1qwGXtG-C292c-UVuKzJlg6RJKpGGb-TL/view?usp=sharing):
+### PROJECT 3 - [Download Power BI File to access interactivity with the dashboard](https://drive.google.com/file/d/1qwGXtG-C292c-UVuKzJlg6RJKpGGb-TL/view?usp=sharing):
 
-[Dashboard](path/to/your/dashboard.pdf)
+![Dashboard 1](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%20-%203-1.png)
+![Dashboard 2](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%20-%203-2.png)
+![Dashboard 3](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%20-%203-3.png)
+![Dashboard 4](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%20-%203-4.png)
+![Dashboard 5](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%20-%203-5.png)
+![Dashboard 6](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%20-%203-6.png)
 
 #### Insight 1: Visual Communication Design
 Recognizing the significance of clear and logical layout in Power BI reports underscores the importance of user-centric design, ensuring effective communication and comprehension of data.
@@ -154,9 +159,9 @@ Analyzing the budget breakdown for Djenne showcases the allocation of financial 
 #### Insight 10: Cost Efficiency by Province
 Recognizing Amanzi as the province with the lowest cost per citizen for improvements underscores the efficiency of resource utilization and budget allocation strategies within different regions.
 
-### PROJECT 4 - [Download Power BI File](https://drive.google.com/file/d/1AnQHc9a0FU0ETotXhX1RTEfEIkcRtC7T/view?usp=sharing):
+### PROJECT 4 - [Download Power BI File to access interactivity with the dashboard](https://drive.google.com/file/d/1AnQHc9a0FU0ETotXhX1RTEfEIkcRtC7T/view?usp=sharing):
 
-[Dashboard](path/to/your/dashboard.pdf)
+![Dashboard](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%20-%204.png)
 
 #### Insight 1: Costliest Improvement in Amanzi
 Identifying the installation of public taps as the improvement accounting for the highest cost in Amanzi emphasizes the prioritization of community-focused infrastructure.
