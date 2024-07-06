@@ -46,11 +46,11 @@ Using Power BI, various visualizations were created:
 
 **Part 1**
 ![Dashboard](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%201%20and%202-1.png)
-- [Download the Power BI File here](https://drive.google.com/file/d/139ijckhikCU4eZz63cb9Au7yhGbAvKDU/view?usp=sharing)
+- [Download the Power BI File here](https://drive.google.com/file/d/18kzJ3c_0JSKrlc5I6QEzTM2uB3VgzFpn/view?usp=sharing)
 
 **Part 2**
 ![Dashboard](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%201%20and%202-2.png)
-- [Download the Power BI File here](https://drive.google.com/file/d/139ijckhikCU4eZz63cb9Au7yhGbAvKDU/view?usp=sharing)
+- [Download the Power BI File here](https://drive.google.com/file/d/1VArAiQQyhg1l1CZdtRcVfOHwXmz_AErn/view?usp=sharing)
 
 **Part 3**
 ![Dashboard 1](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%20-%203-1.png)
@@ -59,11 +59,11 @@ Using Power BI, various visualizations were created:
 ![Dashboard 4](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%20-%203-4.png)
 ![Dashboard 5](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%20-%203-5.png)
 ![Dashboard 6](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%20-%203-6.png)
-- [Download the Power BI File here](https://drive.google.com/file/d/1qwGXtG-C292c-UVuKzJlg6RJKpGGb-TL/view?usp=sharing)
+- [Download the Power BI File here](https://drive.google.com/file/d/1Sz8j57E2ZKkYYmi4Hyrg2SnYIr9s0oxH/view?usp=sharing)
 
 **Part 4**
 ![Dashboard](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/Files/Project%20Report%20-%204.png)
-- [Download the Power BI File here](https://drive.google.com/file/d/1AnQHc9a0FU0ETotXhX1RTEfEIkcRtC7T/view?usp=sharing))
+- [Download the Power BI File here](https://drive.google.com/file/d/1Sz8j57E2ZKkYYmi4Hyrg2SnYIr9s0oxH/view?usp=sharing)
 
 ---
 
