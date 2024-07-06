@@ -1,4 +1,4 @@
-## Comprehensive Report on **"Power BI-driven Insights: Unveiling Societal Dynamics through Data Visualization and Storytelling in Maji Ndogo"**
+## Power BI-driven Insights: Unveiling Societal Dynamics through Data Visualization and Storytelling in Maji Ndogo
 
 ---
 
